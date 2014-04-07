@@ -1,0 +1,8 @@
+{
+  "name": "melodycss",
+  "description": "Melody: an extremely lightweight responsive CSS grid framework. http://melodycss.co",
+  "homepage": "https://github.com/MarkHendriks/meteor-melodycss",
+  "author": "Mark Hendriks (https://github.com/MarkHendriks)",
+  "version": "1.0",
+  "git": "https://github.com/MarkHendriks/meteor-melodycss.git"
+}
